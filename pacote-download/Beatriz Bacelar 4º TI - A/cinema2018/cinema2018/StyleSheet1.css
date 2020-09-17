@@ -1,0 +1,74 @@
+﻿
+body
+{
+    height: 675px;
+    width: 330px;
+  
+}
+
+#div 
+{   
+   background-color:#7FFFD4;
+     height: 675px;
+    width: 330px;
+}
+
+#div h1 {
+font-family: Verdana, Helvetica, sans-serif;
+font-size: 20px;
+text-align:center;
+}
+
+#div h3 {
+font-family: Arial,Verdana, Helvetica, sans-serif;
+font-size: 18px;
+text-align:justify;
+color: #4F4F4F;
+}
+
+.textbox {
+font-family: Arial, Verdana, Geneva, sans-serif;
+border: 1px solid #D3D3D3;
+width: 70%;
+}
+
+.button {
+font-family: Arial;
+font-size: 12px;
+color:#008B8B;
+background-color: #7FFFD4;
+border: 2px solid #008B8B;
+    height: 25px;
+}
+
+.button:hover 
+{
+  font-family: Arial, Verdana, Geneva, sans-serif;
+font-size: 12px;
+color:#008B8B;
+background-color: white;
+border: 2px solid #008B8B;
+}
+
+.label {
+font-family: Arial, Verdana, Geneva, sans-serif;
+font-size:12pt;
+text-align:left;
+color: #1C1C1C;
+}
+
+a {
+font-family: Arial, Verdana, Geneva, sans-serif;
+background-color: #B0C4DE;
+}
+
+a:href {
+font-family: Arial, Verdana, Geneva, sans-serif;
+background-color: #B0C4DE;
+text-align:center;
+}
+
+a:hover{
+	color:#db6d16;	
+}
+
